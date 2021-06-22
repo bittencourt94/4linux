@@ -6,3 +6,5 @@ from parimpar import verifica
                  
 numero = int(input ("Digite um número para verificar se par ou impar: "))
 verifica(numero)
+  
+    
